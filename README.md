@@ -46,13 +46,13 @@ This will start the application on `http://localhost:3000`.  (Port may need adju
     npm install nodemon -g
     ```
     ```bash
-    npm ejs
+    npm install ejs
     ```
      ```bash
-    npm express
+    npm install express
     ```
      ```bash
-    npm mongoose
+    npm install mongoose
     ```
 
 4.  **Start the application:**
